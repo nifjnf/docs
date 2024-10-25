@@ -53,7 +53,7 @@
       "group": "Get Started",
       "pages": [
         "introduction",
-        "Test3"
+        "Test3" ,
         "quickstart",
         "development"
       ]
